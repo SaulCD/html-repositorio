@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>primer pagina web</title>
+</head>
+<body>
+    <H1>introduccion a HTML en openbootcamp</H1>
+    <p>esto es una parrafo</p>
+    <hr>
+    <br>
+    <p>aprendi a documentar mi html en openbootcamp</p>
+    <ul>
+
+        <li>
+            <a href="https://music.youtube.com/watch?v=n7Ff18yN_ek&list=PLmCQRBvXEIBFUTqVIrwiI1zvwTO-Fsnt5" target="_blank">hasta que amanezca</a>
+        </li>
+        <li>
+            <a href="https://music.youtube.com/watch?v=a2IvrN-7RZA&list=PLmCQRBvXEIBFUTqVIrwiI1zvwTO-Fsnt5" target="_blank" >Historia de una amor</a>
+        </li>
+        <li
+        ><a href="https://music.youtube.com/watch?v=RUhTp0Vc4Nk&list=PLmCQRBvXEIBFUTqVIrwiI1zvwTO-Fsnt5" target="_blank">odiame</a>
+    </li>
+
+
+    </ul>
+</body>
+</html>
